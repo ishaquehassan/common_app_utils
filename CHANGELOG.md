@@ -1,3 +1,7 @@
-## [0.0.1] - TODO: Add release date.
+## [1.0.0] - 25 Jan 2020
 
-* TODO: Describe initial release.
+* Just Uploaded this plugin
+
+## [1.0.1] - 25 Jan 2020
+
+* Updated Documentation 
